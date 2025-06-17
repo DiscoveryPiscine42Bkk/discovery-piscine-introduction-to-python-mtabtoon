@@ -1,3 +1,4 @@
 first_name = "Maneerat"
 Last_name = "Tabtoon"
-print(first_name,Last_name)
+whole_name = first_name+Last_name
+print(whole_name)
